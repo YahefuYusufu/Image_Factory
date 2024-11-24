@@ -27,21 +27,3 @@ Welcome to the Image Vista Android App repository. We will build an amazing Andr
 | <img width="160" src="./readme-assets/6.gif"> | <img width="160" src="./readme-assets/1.gif">  | <img width="160" src="./readme-assets/3.gif"> |
 | Zoom Image                        | Download Image                    | Dark Mode                         |
 | <img width="160" src="./readme-assets/4.gif"> | <img width="160" src="./readme-assets/5.gif">  | <img width="160" src="./readme-assets/9.gif"> |
-
-
-# :hammer_and_wrench: Youtube Playlist :hammer_and_wrench:
-
-
-![Screenshot (177)](https://github.com/CodeInKotLang/ImageVista/assets/110901093/4dbd8638-5464-4bd6-9a1d-54e104da6d13)
-
-
-# :memo: Authors :memo:
-- [Mohammad Arif](https://github.com/CodeInKotLang)
-
-Check out my Udemy online course: [MeasureMate Android App](https://www.udemy.com/course/measuremate/?referralCode=B3DE352F96BC3C3E9E80)
-
-
-<a href="https://ko-fi.com/mohammadarif" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-
-Happy learning and building amazing Android apps!
