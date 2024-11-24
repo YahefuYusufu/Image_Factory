@@ -1,10 +1,9 @@
 
 
 <h1 align = "center">
-<b><i>Image Vista Android App</i></b>
+<b><i>Image Factory Android App</i></b>
 </h1>
 
-Welcome to the Image Vista Android App repository. We will build an amazing Android application that showcases beautiful images from the Unsplash API. We'll be using a range of powerful libraries and frameworks to build our app.
 
 # :building_construction: Tech Stack :building_construction:
 
