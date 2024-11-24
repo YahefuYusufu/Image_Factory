@@ -1,5 +1,5 @@
 
-![0](./readme-assets/0.png)
+
 <h1 align = "center">
 <b><i>Image Vista Android App</i></b>
 </h1>
